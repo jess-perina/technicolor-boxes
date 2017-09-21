@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  height: 100vh;
+}
+
+.box-container {
+  display: flex;
+  justify-content: center;
+}
+
+#main {
+  width: 80vw;
+  height: 95vh;
+  background-color: grey;
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+}
+
+.footer {
+  color: white;
+  text-align: center;
+}
