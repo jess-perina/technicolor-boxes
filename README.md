@@ -40,10 +40,6 @@ $ yarn run build
 * [React](https://facebook.github.io/react/) - UI Library
 * [yarn](https://yarnpkg.com/en/) - Dependency Management 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Jennifer Dewalt - for the inspiration and amazing project ideas - https://jenniferdewalt.com/
